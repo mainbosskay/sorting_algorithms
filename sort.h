@@ -1,7 +1,8 @@
 #ifndef SORT_ALGORITHMS_HEADER
 #define SORT_ALGORITHMS_HEADER
+
 #include <stdio.h>
-#include <stalib.h>
+#include <stdlib.h>
 #include <time.h>
 
 /**
@@ -23,7 +24,7 @@ void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 void shell_sort(int *array, size_t size);
-void cocktail sort list(listint_t **list);
+void cocktail_sort_list(listint_t **list);
 void counting_sort(int *array, size_t size);
 void merge_sort(int *array, size_t size);
 void heap_sort(int *array, size_t size);
