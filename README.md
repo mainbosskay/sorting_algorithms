@@ -1,5 +1,5 @@
 This is a README file for the C program project on BIG O notation and sorting algorithm
-Done by; Kehinde Dada and Ahmed Sodiq
+Done by; Kehinde Dada and Ahmed Sodiq Olayinka
 
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
